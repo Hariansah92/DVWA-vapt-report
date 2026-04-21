@@ -68,7 +68,18 @@ These vulnerabilities may lead to:
 ---
 
 ## 📁 Evidence
-Screenshots of exploitation are available in the `/screenshots` folder.
+
+### SQL Injection
+![SQL Injection](screenshots/sql-injection.png)
+
+### Command Injection
+![Command Injection](screenshots/command_injection.png)
+
+### XSS
+![XSS](screenshots/xss.png)
+
+### Brute Force
+![Brute Force](screenshots/bruteforce.png)
 
 ---
 
