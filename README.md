@@ -86,3 +86,16 @@ These vulnerabilities may lead to:
 ## 👨‍💻 Author
 Hariansah  
 SOC Analyst L1 | Junior Penetration Tester (CEH)
+
+## 🧾 Conclusion
+
+The assessment identified multiple High and Critical vulnerabilities in the DVWA application, including SQL Injection, Command Injection, XSS, and Brute Force attacks.
+
+These findings demonstrate weak input validation and lack of authentication security controls.
+
+If present in a real production environment, these vulnerabilities could lead to:
+- Unauthorized system access
+- Data leakage
+- Remote command execution
+
+This highlights the importance of continuous security testing and secure coding practices.
