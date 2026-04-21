@@ -1,4 +1,4 @@
-# 🔐 DVWA Vulnerability Assessment & Penetration Testing (VAPT)
+# 🔐 DVWA Security Assessment Report (VAPT | OWASP Top 10)
 
 ## 📌 Project Overview
 This repository contains a Vulnerability Assessment and Penetration Testing (VAPT) report conducted on DVWA (Damn Vulnerable Web Application) in a controlled lab environment.
